@@ -12,4 +12,5 @@ gcc -o bfc interpreter.c
 
 ```shell
 bfc src.bf
+# > Hello world!
 ```
